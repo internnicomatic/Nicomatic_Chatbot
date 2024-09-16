@@ -1,4 +1,4 @@
-# Chatbot drive by LLM
+# Chatbot powered by LLM
 This project is to build a chat-bot whose purpose is to find the right family of connectors based on user's needs.
 ![Architecture for India - Workflow (1)](https://github.com/user-attachments/assets/c83c2d4a-8877-4afe-b4fd-d926f8d56ed8)
 

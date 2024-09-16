@@ -1,6 +1,7 @@
 # Chatbot drive by LLM
 This project is to build a chat-bot whose purpose is to find the right family of connectors based on user's needs.
-![Architecture for India - Workflow](https://github.com/user-attachments/assets/3338b568-73bb-4d6c-a052-877661831f77)
+![Architecture for India - Workflow](https://github.com/user-attachments/assets/5d747a09-9a99-42aa-83c5-25c3291c4a2c)
+
 
 Main file is named as "agentic_chatbot.ipynb"
 The entire workflow for this is explained in the documentation.docs

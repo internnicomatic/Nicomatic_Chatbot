@@ -3,6 +3,7 @@ This project is to build a chat-bot whose purpose is to find the right family of
 ![Architecture for India - Workflow](https://github.com/user-attachments/assets/3338b568-73bb-4d6c-a052-877661831f77)
 
 Main file is named as "agentic_chatbot.ipynb"
+The entire workflow for this is explained in the documentation.docs
 
 
 # Here is an alternate No_code solution using Open webUI aka Ollama web UI

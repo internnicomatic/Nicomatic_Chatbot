@@ -16,8 +16,12 @@
 Name: intern/prompt6
 Link: https://smith.langchain.com/prompts/prompt6?organizationId=bb9e3bfb-91e4-5cbd-88af-612005bdcfe5
 Output: 
+
+https://github.com/user-attachments/assets/773bcf81-aafc-4c5f-ba18-df362f2b5c96
+
+
  ![image](https://github.com/user-attachments/assets/c04bbb7f-0f5c-4854-8785-b88a28b47a0f)
-![image](https://github.com/user-attachments/assets/64006863-c50b-41fb-b931-5d1c5d350df0)
+
 
 Take away:
 -	Good  prompt

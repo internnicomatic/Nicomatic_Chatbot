@@ -10,6 +10,7 @@ The entire workflow for this is explained in the documentation.docs
 The requirement.txt file contains all the requirements which is currently installed in my virtual env. Most of these were not directly used for the main code, but instead was utilized for experimentation and finetuning attempts.
 
 # Here is an alternate No_code solution using Open webUI aka Ollama web UI
-Ollama chatmodel, LLama 3.1 as the LLM.
+OpenWebUI is a webUI for hosting LLM models locally. 
+We integrated this webUI with Ollama chatmodel, LLama 3.1 as the LLM. Tried out OpenWebUI's RAG feature, Function calling feature, and Web search tools.  
 
 Link: https://drive.google.com/drive/folders/18JAa_M3CSWbs4NYGBYaLncoF7HCBrqPi?usp=drive_link

@@ -30,6 +30,10 @@ Take away:
 -	Provided additional information as and when required
 -	Better fault handling
 -	Works better after finetuning
+-	Still not full proof as the prompt goes out of control with tools sometimes
+
+# Additional experimentation done with prompts is in the following link:
+https://docs.google.com/document/d/1oosBWTk4ktWMpFMMgApxIJGawQh3umJZ/edit?usp=drive_link&ouid=118183579682060135976&rtpof=true&sd=true
 
 
 

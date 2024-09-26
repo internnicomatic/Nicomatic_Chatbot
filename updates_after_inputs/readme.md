@@ -12,7 +12,6 @@
 3. Tried out different chunking stratergy and in the process of learning and implementing knowledge graph. 
 
 # Experimentation done with prompts
-
 Name: intern/prompt6
 Link: https://smith.langchain.com/prompts/prompt6?organizationId=bb9e3bfb-91e4-5cbd-88af-612005bdcfe5
 Output: 
@@ -32,8 +31,22 @@ Take away:
 -	Works better after finetuning
 -	Still not full proof as the prompt goes out of control with tools sometimes
 
-# Additional experimentation done with prompts is in the following link:
+|Other tries with prompts is in the following link:|
+--
 https://docs.google.com/document/d/1oosBWTk4ktWMpFMMgApxIJGawQh3umJZ/edit?usp=drive_link&ouid=118183579682060135976&rtpof=true&sd=true
 
 
 
+# Embedding model:
+Initially was using the "nomic-text-embeddings" from Nomic-AI. Intention of choosing this embedding model:
+- smaller size (~ 500 MB)
+- High context length (8192 tokens)
+- High embedding dimension (768)
+- Can be used locally and has open weight
+
+ Tried out other embedding models like:
+ 1. dunzhang/stella_en_400M_v5
+ 2. sentence-transformers/all-MiniLM-L6-v2
+ 3. BAAI/bge-en-icl
+
+ 

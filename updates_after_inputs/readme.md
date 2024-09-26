@@ -10,3 +10,22 @@
 1. Tried out varients of the prompt inorder to make it smaller and more precise. An efficient prompt with optimal results was indeed given.
 2. Experimented with differenet embeddings models for faster retireval.
 3. Tried out different chunking stratergy and in the process of learning and implementing knowledge graph. 
+
+# Experimentation done with prompts
+
+Name: intern/prompt6
+Link: https://smith.langchain.com/prompts/prompt6?organizationId=bb9e3bfb-91e4-5cbd-88af-612005bdcfe5
+Output: 
+ ![image](https://github.com/user-attachments/assets/c04bbb7f-0f5c-4854-8785-b88a28b47a0f)
+![image](https://github.com/user-attachments/assets/64006863-c50b-41fb-b931-5d1c5d350df0)
+
+Take away:
+-	Good  prompt
+-	Asks a set of relevant questions based on given context only
+-	Stops after shortlisting the right connector
+-	Provided additional information as and when required
+-	Better fault handling
+-	Works better after finetuning
+
+
+

@@ -1,9 +1,9 @@
 # Action points from the previous meeting
 
-> Shorter prompt
-> Trying out different embedding models
-> Better stratergy for segmentation of data
-> Guard rails
+- Shorter prompt
+- Trying out different embedding models
+- Better stratergy for segmentation of data
+- Guard rails
 
 # Experimentation based above inputs completed till now
 
